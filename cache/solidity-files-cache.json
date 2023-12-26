@@ -1,0 +1,115 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\Harsh\\Desktop\\metacrafters_polygon_advanced-master\\metacrafters_polygon_advanced-master\\fxPortal\\contracts\\BenNFT.sol": {
+      "lastModificationDate": 1703574737079,
+      "contentHash": "f1ad8712e1a6d5beacb6d811abc9034e",
+      "sourceName": "contracts/BenNFT.sol",
+      "solcConfig": {
+        "version": "0.8.18",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "erc721a/contracts/ERC721A.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.17"
+      ],
+      "artifacts": [
+        "BenNFT"
+      ]
+    },
+    "C:\\Users\\Harsh\\Desktop\\metacrafters_polygon_advanced-master\\metacrafters_polygon_advanced-master\\fxPortal\\node_modules\\erc721a\\contracts\\ERC721A.sol": {
+      "lastModificationDate": 1703339119337,
+      "contentHash": "227e9db819fd61602f833edafcda7d4a",
+      "sourceName": "erc721a/contracts/ERC721A.sol",
+      "solcConfig": {
+        "version": "0.8.18",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "./IERC721A.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.4"
+      ],
+      "artifacts": [
+        "ERC721A",
+        "ERC721A__IERC721Receiver"
+      ]
+    },
+    "C:\\Users\\Harsh\\Desktop\\metacrafters_polygon_advanced-master\\metacrafters_polygon_advanced-master\\fxPortal\\node_modules\\erc721a\\contracts\\IERC721A.sol": {
+      "lastModificationDate": 1703339119356,
+      "contentHash": "c31a05698ddc2f109ba8723105d854c6",
+      "sourceName": "erc721a/contracts/IERC721A.sol",
+      "solcConfig": {
+        "version": "0.8.18",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.4"
+      ],
+      "artifacts": [
+        "IERC721A"
+      ]
+    }
+  }
+}
