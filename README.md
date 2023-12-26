@@ -42,7 +42,8 @@ npx hardhat run scripts/approveDeposit.js --network goerli
 
 ## Authors
 
-[BenFaruna](https://github.com/BenFaruna/)
+Harsh shende
+
 
 ## License
 
